@@ -10,10 +10,10 @@
 [![GitHub followers](https://img.shields.io/github/followers/Eng-Mohamed-Emad?label=Follow&style=social)](https://github.com/Eng-Mohamed-Emad)
 [![Twitter Follow](https://img.shields.io/twitter/follow/MohamedEmad303?style=social)](https://x.com/MohamedEmad303?t=9It3CEellSEN-8xd6-C3UA&s=09)
 
-<a href="www.linkedin.com/in/mohamed-emad111" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20EmadEldin-%231877F2?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mohamed-emad111?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20EmadEldin-%231877F2?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/Mohamed_EmadEldin111" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20EmadEldin-%231877F2?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 <a href="eng.mohamed.emad111@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20EmadEldin-%231877F2?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.facebook.com/profile.php?id=100009880817139&mibextid=ZbWKwL" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20EmadEldin-%231877F2?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.facebook.com/profile.php?id=100009880817139" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20EmadEldin-%231877F2?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
@@ -28,9 +28,9 @@ I'm a passionate DevOps Engineer with a strong background in building, automatin
 
  
 
+- 👨🏻‍🏫 I am seeking a position as a DevOps engineer where I can utilize my skills, to become a successful professional in information technology and to work in an innovative and competitive world, 
 
- 
-- 🏢 I'm a Software Engineer 
+  I also have Good knowledge in areas such as web development , and Web Design
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 - 👨‍💻 Check out my portfolio at https://www.linkedin.com/in/mohamed-emad111 to see some of the projects I've worked on.
