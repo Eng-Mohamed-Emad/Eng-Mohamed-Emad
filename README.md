@@ -10,9 +10,9 @@
 [![GitHub followers](https://img.shields.io/github/followers/Eng-Mohamed-Emad?label=Follow&style=social)](https://github.com/Eng-Mohamed-Emad)
 [![Twitter Follow](https://img.shields.io/twitter/follow/MohamedEmad303?style=social)](https://x.com/MohamedEmad303?t=9It3CEellSEN-8xd6-C3UA&s=09)
 
-<a href="https://www.linkedin.com/in/mohamed-emad111?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20EmadEldin-%231877F2?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mohamed-emad101?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20EmadEldin-%231877F2?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/Mohamed_EmadEldin111" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20EmadEldin-%231877F2?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
-<a href="eng.mohamed.emad111@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20EmadEldin-%231877F2?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="eng.mohamed.emad101@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20EmadEldin-%231877F2?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.facebook.com/profile.php?id=100009880817139" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20EmadEldin-%231877F2?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
