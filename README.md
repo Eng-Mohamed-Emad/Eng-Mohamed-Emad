@@ -12,7 +12,7 @@
 
 <a href="https://www.linkedin.com/in/mohamed-emad101?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20EmadEldin-%231877F2?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/Mohamed_EmadEldin111" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20EmadEldin-%231877F2?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
-<a href="eng.mohamed.emad101@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20EmadEldin-%231877F2?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:eng.mohamed.emad101@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20EmadEldin-%231877F2?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.facebook.com/profile.php?id=100009880817139" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20EmadEldin-%231877F2?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
